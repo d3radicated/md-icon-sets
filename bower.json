@@ -11,7 +11,7 @@
     "test",
     "tests"
   ],
-  "dependencies": {
+  "devDependencies": {
     "material-design-icons": "^3.0.1"
   }
 }
