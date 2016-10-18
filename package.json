@@ -14,7 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "gulp": "^3.9.1",
-    "gulp-replace-name": "^1.0.1",
+    "gulp-rename": "^1.2.2",
     "gulp-svg-ngmaterial": "^2.0.2"
   }
 }
